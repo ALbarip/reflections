@@ -1,0 +1,23 @@
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Because, if you programmer and you are working with thousand of codes  it's easy to make a mistake when you made a new changes to the code. So that why the version-control comes from, to help programmer track their changes to the code.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Ya gitulah ahahhaha
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Karena GIT itu ditujukan untuk programmer yang tentu saja mengakses banyak files sekaligus, yang behubungan satu sama lainnya. Sementara Google docs hanya bisa melakukan pengeditan paddasingle dokumen pada satu waktu
+
+How can you use the commands git log and git diff to view the history of files?
+
+jawabanya malah ada dipertanyaanya sendiri wkwkwkw :), funny
+
+How might using version control make you more confident to make changes that could break something?
+
+Mboh 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+buat projeklah masa iya buat makan bro wkwkwkwkwk
