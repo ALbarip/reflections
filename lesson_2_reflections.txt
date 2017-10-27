@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+Muncul folder .git yang isinya akan berupa semua history file yang telah kita buat bro. Kenapa butuh? ya karena butuh karena kita developer bro urusannnya sama kodingan gede jangan macem macem lu ilang kodingan lu nangis darah lu
