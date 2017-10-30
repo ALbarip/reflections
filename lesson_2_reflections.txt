@@ -1,2 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 Muncul folder .git yang isinya akan berupa semua history file yang telah kita buat bro. Kenapa butuh? ya karena butuh karena kita developer bro urusannnya sama kodingan gede jangan macem macem lu ilang kodingan lu nangis darah lu
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area itu semacam area abu abu, jadi file yang mau di commit akan dimasukkan dulu di staging area sebelum commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+dengan nambahin file yang udah di modif ke staging area dulu.
+
