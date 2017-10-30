@@ -15,3 +15,9 @@ ya dengan diagram kita jadi tau di commit mana terjadi penambahan branch.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 hasilnya ya dua atau sumber digabugkan menjadi satu. supaya commit baik dari branch yang maupun yg original tetap terlihat
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+auto :   + much faster, easy to use
+         - if there is some change in function but have different name it will cost a conflict
+manual : + much presise
+		 - takes a long time, especially with large file included
