@@ -12,3 +12,6 @@ saat akan menambah sebuah fitur experimental atau suatu versi lain dari aplikasi
 
 How do the diagrams help you visualize the branch structure?
 ya dengan diagram kita jadi tau di commit mana terjadi penambahan branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+hasilnya ya dua atau sumber digabugkan menjadi satu. supaya commit baik dari branch yang maupun yg original tetap terlihat
